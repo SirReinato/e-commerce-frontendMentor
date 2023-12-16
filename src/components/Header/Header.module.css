@@ -1,0 +1,27 @@
+.conteiner {
+  width: 1440px;
+  height: 112px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  width: 1111px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+.nav .p1 {
+    width: 588px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lista {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 32px;
+}
