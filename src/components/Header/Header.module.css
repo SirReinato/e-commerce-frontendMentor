@@ -1,16 +1,17 @@
 .conteiner {
   width: 1440px;
   height: 112px;
-  flex-shrink: 0;
   display: flex;
-  justify-content: center;
+  box-sizing: border-box;
   align-items: center;
+  justify-content: center;
+
 }
 
 .nav {
   width: 1111px;
   height: 50px;
-  flex-shrink: 0;
+  
   display: flex;
   justify-content: space-between;
 }

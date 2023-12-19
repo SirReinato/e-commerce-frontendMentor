@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "path": "../../public/produto/image-product-1-thumbnail.jpg",
+        "correspondente": "../../public/produto/image-product-1.jpg"
+    },
+    {
+        "id": "2",
+        "path": "../../public/produto/image-product-2-thumbnail.jpg",
+        "correspondente": "../../public/produto/image-product-2.jpg"
+    },
+    {
+        "id": "3",
+        "path": "../../public/produto/image-product-3-thumbnail.jpg",
+        "correspondente": "../../public/produto/image-product-3.jpg"
+    },
+    {
+        "id": "4",
+        "path": "../../public/produto/image-product-4-thumbnail.jpg",
+        "correspondente": "../../public/produto/image-product-4.jpg"
+    }
+]
