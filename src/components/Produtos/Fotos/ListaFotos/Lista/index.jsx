@@ -13,12 +13,12 @@ const AhLista = styled.li`
   }
 `;
 
-const Lista = ({ foto, id, ondeFoi }) => {
-   
+const Lista = ({ foto, id }) => {
+   const [teste, setTeste] = useState('');
+
     function QualFoi(event) {
-        const esseAqui = event.target.alt;
-        console.log(esseAqui);
-        return esseAqui;
+        console.log(event.target.alt);
+        return setTeste(event.target.alt);
     }
 
   return (
